@@ -36,10 +36,9 @@ Employees capable of bridging between cross-functional organizations and act as 
 The metrics of success should be carefully defined to ensure alignment with business goals, for example: Number of students using Labster solution, ROI, number of licensing agreements, amount of public funding leveraged, total teaching material delivered.  
 
 **CONCLUSION:**  
-
-Labster strategic choice to partner with California’s community college will allow for an opportunity to help teachers and students and bring innovative EdTech to 115 Schools and 2.1 million students.
-
 The interactive Partnership Navigator is a simple tool, that uses a Network Analysis approach to determine the quality of the partnership and the resources it unlocks. it shows Labster and it's partners. Hovering, over partner nodes shows the number of students enrolled at each University.
+
+I hope this tool have attracted you interest and that Labster could give an opportunity to know more about how I can be useful.
 
 #### References:
 - [Standford Enrollment Statistics, 2020-21: 18623 students](https://registrar.stanford.edu/everyone/enrollment-statistics/enrollment-statistics-2020-21)
