@@ -1,0 +1,53 @@
+---
+title: "Developing Labster's Strategic Partnership"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Labster's mission is to bring innovative, engaging, and fun education solutions by offering virtual laboratory simulations provided as a supportive curriculum-based e-tool where students can work with real-life challenges in an online environment.
+To achieve this mission through strategic partnership, Labster should answer the following questions:  
+
+**QUESTION 1: What business goals drive Labster's partnerships?**  
+
+Here we articulate the business goals in clear business terms. For example:  
+- Bring Labster's solutions to 2 million Students.  
+
+**QUESTION 2: What are the key focus areas of the partnership, and how are they selected to ensure alignment with business goals?**  
+
+Focus areas can be, Short-Term or Long-Term, for example the focus can aim to understand customer needs and develop solutions in an extended workbench fashion as improving grades, engagement, and student retention.
+
+**QUESTION 3: Who are the primary partners, and by what criteria are they chosen?**  
+
+Criteria could be; Familiarity and fit, Location, Excellence, Legal Framework, and Culture.  
+
+**QUESTION 4: What collaboration formats match Labster's focus area and business goals?**  
+
+One possible format could be Co-Creation Format, to pave the way and better understand the needs of teachers and students.
+
+**QUESTION 5: What people, processes, and organizational structure are needed to support the partnership?** 
+
+Employees capable of bridging between cross-functional organizations and act as knowledge and resources brokers. Analyse, Build and Maintain Relationships with partners, and provide effective reporting on the values created through these partnerships to key managers and executives.  
+
+**QUESTION 6: What key performance indicators are most useful for evaluating the partnership**  
+
+The metrics of success should be carefully defined to ensure alignment with business goals, for example: Number of students using Labster solution, ROI, number of licensing agreements, amount of public funding leveraged, total teaching material delivered.  
+
+**CONCLUSION:**  
+
+Labster strategic choice to partner with California’s community college will allow for an opportunity to help teachers and students and bring innovative EdTech to 115 Schools and 2.1 million students.
+
+The interactive Partnership Navigator is a simple tool, that uses a Network Analysis approach to determine the quality of the partnership and the resources it unlocks. it shows Labster and it's partners. Hovering, over partner nodes shows the number of students enrolled at each University.
+
+#### References:
+- [Standford Enrollment Statistics, 2020-21: 18623 students](https://registrar.stanford.edu/everyone/enrollment-statistics/enrollment-statistics-2020-21)
+- [MIT Enrollment Statistics, 2020-21: 11254 students](https://registrar.mit.edu/stats-reports/enrollment-statistics-year/all)
+- [Harvard Enrollment Statistics, 2020-21: 31119 students](https://registrar.fas.harvard.edu/faculty-staff/courses/enrollment)
+- [California’s community college: 2020-21: 2.1 mln students over 116 colleges](https://www.cccco.edu/)
+- [California State University Enrollment Statistics, Fall 2020: 39360 students](https://data.ir.csulb.edu/t/IRA-Public/views/CampusEnrollment/CampusEnrollmentatCensusHeadCountFTESAUL?:iid=1&:isGuestRedirectFromVizportal=y&:embed=y)
+- [Gwinnett Technical College Enrollment Statistics, 2018-19: 9124 students](https://www.univstats.com/colleges/gwinnett-technical-college/student-population/)
+- [Trinity College Enrollment Statistics, 2019: 2234 students](https://datausa.io/profile/university/trinity-college)
+- Frolund, L., Murray, F., & Riedel, M. (2018). Developing Successful Strategic Partnerships With Universities. MIT Sloan Management Review, 59(2), 71–79.
+
